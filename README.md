@@ -383,33 +383,6 @@ This cross-tool reconciliation helped ensure that the final dashboard was based 
 
 ---
 
-# 📁 Repository Structure
-
-```text
-online-retail-sales-customer-analytics/
-│
-├── README.md
-│
-├── data/
-│   └── Online_retail_cleaned_v2.csv
-│
-├── excel/
-│   └── Online_Retail_Cleaning.xlsx
-│
-├── sql/
-│   └── online_retail_analysis.sql
-│
-├── powerbi/
-│   └── Online_Retail_Dashboard.pbix
-│
-├── screenshots/
-│   ├── executive_overview.png
-│   ├── product_cancellation.png
-│   └── customer_sales_behaviour.png
-│
-└── documentation/
-    └── Online_Retail_Project_Documentation.pdf
-```
 
 ---
 
