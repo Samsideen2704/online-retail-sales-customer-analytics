@@ -28,6 +28,15 @@ The final dashboard brings the analysis together in three pages. It gives a clea
 
 ---
 
+## 🔎 Key Findings
+
+- **The UK is the main market:** 83.97% of total revenue came from the United Kingdom.
+- **Repeat customers are highly valuable:** They generated 93.09% of identifiable positive-sales revenue.
+- **Customer retention is strong:** 65.57% of customers with positive purchases were repeat customers.
+- **November was the strongest full month:** Revenue reached £1.46M in November 2011.
+- **Cancellations had a meaningful financial impact:** Cancellation value was £893,979.73, equal to 9.19% of total revenue value.
+
+---
 ## 🎯 Business Problem
 
 The retailer had a large volume of transactional data but needed a clearer understanding of its overall business performance.
