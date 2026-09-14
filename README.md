@@ -22,7 +22,7 @@ The final dashboard brings the analysis together in three pages. It gives a clea
 
 ### Executive Overview
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](Screenshots/01_executive_overview.png)
 
 [View the full Power BI dashboard](powerbi/Online_Retail_Dashboard.pbix)
 
