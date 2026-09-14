@@ -16,6 +16,16 @@ The project follows an end-to-end data analytics workflow using **Microsoft Exce
 
 The objective was to transform raw transactional data into reliable insights that could support business decision-making.
 
+## 📊 Power BI Dashboard
+
+The final dashboard brings the analysis together in three pages. It gives a clear view of sales performance, product performance, cancellations, customer behaviour and sales patterns.
+
+### Executive Overview
+
+![Executive Overview](screenshots/01_executive_overview.png)
+
+[View the full Power BI dashboard](powerbi/Online_Retail_Dashboard.pbix)
+
 ---
 
 ## 🎯 Business Problem
